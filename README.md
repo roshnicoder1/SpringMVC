@@ -8,6 +8,9 @@
 * @RequestParam("custno")
 * @RequestMapping("/hello")  
 
+# @Controller annotation is an annotation used in Spring MVC framework (the component of Spring Framework used to implement Web Application).
+The @Controller annotation indicates that a particular class serves the role of a controller. The @Controller annotation acts as a stereotype for the annotated class, indicating its role. The dispatcher scans such annotated classes for mapped methods and detects @RequestMapping annotations.
+
 # @ModelAttribute binds form data to the object 
 Note - The value passed with the @ModelAttribute annotation should be the same to the modelAttribute value present in the view page.
  ``` 
