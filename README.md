@@ -1,5 +1,15 @@
 # SpringMVC
 
+## Dependencies added
+
+```
+•	Spring bean
+•	Junit 4.12
+•	Spring -web mvc
+•	javax-servlet JSTL
+•	javax-servlet-api
+•	mockito (not beta version) mockito-all
+```
 
 
 ![MVC](https://user-images.githubusercontent.com/37985023/165590806-64ec2819-ee13-46a9-8e9b-fbf5173dc070.PNG)
